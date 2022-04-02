@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/ashrafs_place",
+        "prod_uri":"mysql://root:@localhost/ashrafs_place",
+        "fb_url":"https://facebook.com/ashrafs_place",
+        "tw_url":"https://twitter.com/ashrafs_place",
+        "gh_url":"https://github.com/ashrafs_place",
+        "blog_name":"ashrafs blog",
+        "gmail-user":"ashrafrajkhan@gmail.com",
+        "gmail-password":"viratkohli18",
+        "about_text":"hi  this is ashraf i am making this website ",
+        "no_of_posts":5,
+        "login_image":"login.jpeg",
+        "admin_user":"ashraf2000",
+        "admin_password":"password"
+
+    }
+}
